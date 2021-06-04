@@ -1,18 +1,30 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+sidebar_link: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Nick, a 32 year old who has had a roundabout path when it comes to academics. I currently live in Deptford, NJ with my fiance, an old toothless cat, and a lazy beagle.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Hobbies 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- Gaming
+  - [Dota 2 (Semi Retired :( )](https://www.dotabuff.com/players/64745357)
+  - CSGO
+  - [Path of Exile](https://www.pathofexile.com/account/view-profile/procarbine/characters) 
+  - CoD Warzone
+  - Teamfight Tactics
+  - ...and many more
+- Barbeque
+    
+    Currently don't have room for more than an electric smoker, but making due for the time being.
+    - Brisket flats
+    - Boston Butt
+    - Pork Ribs
+    - Beef Ribs
+    - Chicken (especially wings)
+    - Turkey
+- PC Hardware/Some Home Networking
+- Bread Baking
+- Golf
