@@ -12,3 +12,7 @@ permalink: /
 ---
 
 In the future you will find posts highlighting my newest work here!
+
+---
+
+>A couple notes: for some reason the back arrows aren't working, but you can return to this page by clicking my name on the bottom left! Also the RSS feed is messed up for now. The first version of this theme that I pulled from jekyllthemes.io ended up being 6 years old, despite the site saying it had a commit in April. In my stubbornness I found a fork developed by someone else updated much more recently, but it's still a bit quirky!
